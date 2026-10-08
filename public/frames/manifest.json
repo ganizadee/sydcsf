@@ -1,0 +1,27 @@
+{
+  "stethoscope": {
+    "count": 83,
+    "width": 1280,
+    "height": 720
+  },
+  "consultation": {
+    "count": 96,
+    "width": 1280,
+    "height": 720
+  },
+  "guidance": {
+    "count": 96,
+    "width": 1280,
+    "height": 720
+  },
+  "care": {
+    "count": 96,
+    "width": 1280,
+    "height": 720
+  },
+  "team": {
+    "count": 96,
+    "width": 1280,
+    "height": 720
+  }
+}

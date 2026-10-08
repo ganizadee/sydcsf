@@ -108,3 +108,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Next.js
+.next/
+.vercel/
+
+# Local browser test artifacts
+test-results/
